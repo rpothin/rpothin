@@ -15,7 +15,7 @@ I’m currently learning to be a better dad every day
 I’m looking to collaborate on events arround the Power Platform (as a speaker or as an organizer)
 
 ## 💬 Ask me about:
-- the Power Plaftorm
+- Power Plaftorm
 - Dynamics 365 Customer Engagement
 - Azure DevOps
 
