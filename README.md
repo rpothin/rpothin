@@ -29,6 +29,9 @@ So do not hesitate to contact me :open_hands:
 <p align="center">
     <a href="#visitors" alt="Visitors">
         <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rpothinf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" /></a>
+</p>
+
+<p align="center">
     <a href="#followers" alt="Followers">
         <img src="https://img.shields.io/github/followers/rpothin?style=social" /></a>
     <a href="#twitterfollowers" alt="Twitter Followers">
