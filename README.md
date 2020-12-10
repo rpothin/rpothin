@@ -15,6 +15,7 @@ I’m looking to collaborate on
 * open source projects
 * events (as a speaker or as an organizer)
 * blog articles
+
 arround the Power Platform  / Dynamics 365 CE / Azure / Azure DevOps / GitHub. 
 
 I am also available to help you if you want. So do not hesitate to contact me :open_hands:
