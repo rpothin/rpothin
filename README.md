@@ -30,9 +30,9 @@ I am also available to help you if you want. So do not hesitate to contact me :o
 *I am not expert but, if you are lucky, I will perhaps be able to help you :relaxed:*
 
 ### 📫 How to reach me:
-- [:beers: Twitter](https://twitter.com/RaphaelPothin)
-- [:necktie: LinkedIn](https://www.linkedin.com/in/raphael-pothin-642bb657/?locale=en_US)
-- [:newspaper:Blog](https://medium.com/rapha%C3%ABl-pothin)
+* [:beers: Twitter](https://twitter.com/RaphaelPothin)
+* [:necktie: LinkedIn](https://www.linkedin.com/in/raphael-pothin-642bb657/?locale=en_US)
+* [:newspaper:Blog](https://medium.com/rapha%C3%ABl-pothin)
 
 <p align="center">
     <a href="#visitors" alt="Visitors">
