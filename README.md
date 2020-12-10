@@ -1,25 +1,32 @@
 # Raphael Pothin
 
 ### :coffee: About me
-Power Platform enthusiast working on a daily basis with Dynamics 365 Sales, Project Service Automation and Human Resources. I like to find technological solutions to companies business challenges and to share what I learn with the community.
+Power Platform & DevOps enthusiast trying to create some content and some open source solutions to show that a good governance and a DevOps mindset should be key parts in using the Power Platform.
 
 ### 👨‍💻 Current Occupation
-I am back to work!
+Trying to find the right balance between my personal life and all my content / open source solutions ideas I would like to work on.
 
 ### 📖 Learning
-- :family: How to be a good dad
-- :computer: Power Platform / Azure DevOps / Dynamics 365
+* :family: How to be a good dad
+* :computer: Power Platform / Dynamics 365 CE / Azure / Azure DevOps / GitHub
 
 ### 🌐 Collaboration
-I’m looking to collaborate on events arround the Power Platform (as a speaker or as an organizer) and I am available to help you if you want.
-So do not hesitate to contact me :open_hands:
+I’m looking to collaborate on 
+* open source projects
+* events (as a speaker or as an organizer)
+* blog articles
+arround the Power Platform  / Dynamics 365 CE / Azure / Azure DevOps / GitHub. 
+
+I am also available to help you if you want. So do not hesitate to contact me :open_hands:
 
 ### 💬 Ask me about:
-- Power Plaftorm
-- Dynamics 365 Customer Engagement
-- Azure DevOps
+* Power Plaftorm
+* Dynamics 365 CE
+* Azure DevOps
+* GitHub
+* Azure
 
-*I am not expert but if you are lucky I will perhaps be able to help you :relaxed:*
+*I am not expert but, if you are lucky, I will perhaps be able to help you :relaxed:*
 
 ### 📫 How to reach me:
 - [:beers: Twitter](https://twitter.com/RaphaelPothin)
