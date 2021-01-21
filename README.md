@@ -35,6 +35,11 @@ I am also available to help you if you want. So do not hesitate to contact me :o
 * [:newspaper:Blog](https://medium.com/rapha%C3%ABl-pothin)
 
 <p align="center">
+    <a href="#stats" alt="Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=rpothin&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /></a>
+</p>
+
+<p align="center">
     <a href="#visitors" alt="Visitors">
         <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rpothinf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" /></a>
 </p>
