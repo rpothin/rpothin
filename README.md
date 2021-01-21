@@ -47,6 +47,6 @@ I am also available to help you if you want. So do not hesitate to contact me :o
 <p align="center">
     <a href="#followers" alt="Followers">
         <img src="https://img.shields.io/github/followers/rpothin?style=social" /></a>
-    <a href="#twitterfollowers" alt="Twitter Followers">
+    <a href="https://twitter.com/RaphaelPothin" alt="Twitter Followers">
         <img src="https://img.shields.io/twitter/follow/RaphaelPothin?style=social" /></a>
 </p>
