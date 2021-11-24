@@ -16,11 +16,11 @@ Power Platform & DevOps enthusiast trying to create some content and some open-s
 
 ### 👨‍💻 Current Occupation
 - Continuously looking for the right balance between my personal life and all my content / open-source solutions ideas
-- Currently working on the V2 of the [**PowerPlatform-ALM-With-GitHub-Template**](https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template/) template repository
+- Currently planning my work for the end of 2021 - I will mainly focus on the [CoE Starter Kit](https://github.com/microsoft/coe-starter-kit) and the [Power Platform Adoption Framework](https://github.com/PowerPlatformAF/PowerPlatformAF)
 
 ### 📖 Learning
 * :family: How to be a good dad and a good husband
-* :computer: Power Platform / Dynamics 365 CE / Azure / Azure DevOps / GitHub
+* :computer: Power Platform / Dynamics 365 CE / Azure / GitHub / Azure DevOps
 
 ### 🌐 Collaboration
 I’m open for collaboration on:
