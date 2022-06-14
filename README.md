@@ -16,7 +16,7 @@ Power Platform & DevOps enthusiast trying to create some content and some open-s
 
 ### 👨‍💻 Current Occupation
 - Continuously looking for the right balance between my personal life and all my content / open-source solutions ideas
-- Currently planning my work for the end of 2021 - I will mainly focus on the [CoE Starter Kit](https://github.com/microsoft/coe-starter-kit) and the [Power Platform Adoption Framework](https://github.com/PowerPlatformAF/PowerPlatformAF)
+- Working on the v0.4.0 of the [PowerPlatform-ALM-With-GitHub-Template](https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template) project
 
 ### 📖 Learning
 * :family: How to be a good dad and a good husband
