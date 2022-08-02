@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋🏼
 
-### :coffee: About me
+## ☕ About me
 Power Platform & DevOps enthusiast trying to create some content and some open-source solutions around these topics 😁
 
 <p align="center">
@@ -14,16 +14,20 @@ Power Platform & DevOps enthusiast trying to create some content and some open-s
         <img src="https://img.shields.io/badge/-Raphael%20Pothin-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCPrqWAV9Vc9FV8-gHxAfWuA" /></a>
 </p>
 
-### 👨‍💻 Current Occupation
+## 👨‍💻 Current Occupation
+
 - Continuously looking for the right balance between my personal life and all my content / open-source solutions ideas
 - Working on the v0.4.0 of the [PowerPlatform-ALM-With-GitHub-Template](https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template) project
+- Starting a new initiative: [Power-Platform-Notebooks](https://github.com/rpothin/Power-Platform-Notebooks)
 
-### 📖 Learning
-* :family: How to be a good dad and a good husband
-* :computer: Power Platform / Dynamics 365 CE / Azure / GitHub / Azure DevOps
+## 📖 Learning
 
-### 🌐 Collaboration
+- 👨‍👩‍👧‍👧 How to be a good dad and a good husband
+- 💻 Power Platform / Dynamics 365 CE / Azure / GitHub / Azure DevOps
+
+## 🌐 Collaboration
 I’m open for collaboration on:
+
 - open source projects
 - events (as a speaker or as an organizer)
 - blog articles
@@ -36,7 +40,7 @@ around the Power Platform / the DevOps culture  / Dynamics 365 CE / Azure / Azur
 I am also available if you are looking for help or if you have questions.
 I am always happy to talk about these topics :open_hands:
 
-### 💬 Ask me about:
+## 💬 Ask me about:
 
 <p align="center">
     <a href="https://powerplatform.microsoft.com/en-us/" alt="Power Platform">
