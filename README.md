@@ -17,8 +17,7 @@ Power Platform & DevOps enthusiast trying to create some content and some open-s
 ## 👨‍💻 Current Occupation
 
 - Continuously looking for the right balance between my personal life and all my content / open-source solutions ideas
-- Working on the v0.4.0 of the [PowerPlatform-ALM-With-GitHub-Template](https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template) project
-- Starting a new initiative: [Power-Platform-Notebooks](https://github.com/rpothin/Power-Platform-Notebooks)
+- Preparing the plan for the next version of [PowerPlatform-ALM-With-GitHub-Template](https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template) project
 
 ## 📖 Learning
 
