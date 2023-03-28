@@ -18,6 +18,7 @@ Power Platform & DevOps enthusiast trying to create some content and some open-s
 
 - Continuously looking for the right balance between my personal life and all my content / open-source solutions ideas
 - Preparing the plan for the next version of the [PowerPlatform-ALM-With-GitHub-Template](https://github.com/rpothin/PowerPlatform-ALM-With-GitHub-Template) project
+- Brainstorming about a new idea to help people learn how to manage operations activities around Power Platform
 
 ## 📖 Learning
 
