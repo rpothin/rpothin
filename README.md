@@ -60,13 +60,8 @@ I am always happy to talk about these topics :open_hands:
 *I am not expert but, if you are lucky, I will perhaps be able to help you :relaxed:*
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rpothin&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rpothin&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /><br/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rpothin&theme=algolia" />
-</p>
-
-<p align="center">
-    <a href="#visitors" alt="Visitors">
-        <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rpothinf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" /></a>
 </p>
 
 <p align="center">
