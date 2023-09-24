@@ -61,7 +61,7 @@ I am always happy to talk about these topics :open_hands:
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rpothin&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rpothin&theme=algolia" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rpothin" />
 </p>
 
 <p align="center">
