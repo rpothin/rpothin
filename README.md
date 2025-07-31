@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile 👋🏼
 
 ## ☕ About me
-Power Platform & DevOps enthusiast trying to create some content and some open-source solutions around these topics 😁
+I'm a Microsoft Business Applications MVP who’s passionate about Power Platform governance, security, and developer experience. I love supporting teams as they build robust, enterprise-ready applications and thrive on helping others, collaboration, and fostering strong technical communities. Lately, I’m exploring how AI-assisted development—what some like to call “Vibe Coding”—is changing how we build apps in the enterprise world. I’m especially focused on what good governance, security, and developer experience mean in this rapidly evolving landscape, always aiming to empower organizations and individuals to push the limits of the Microsoft ecosystem together.
 
 <p align="center">
     <a href="https://twitter.com/RaphaelPothin" alt="Twitter Badge">
@@ -17,14 +17,12 @@ Power Platform & DevOps enthusiast trying to create some content and some open-s
 ## 👨‍💻 Current Occupation
 
 - Continuously looking for the right balance between my personal life and all my content / open-source solutions ideas
-- Maintaining the [Power Platform Open-Source Hub](https://rpothin.github.io/PowerPlatform-OpenSource-Hub/) initiative
-- Preparing my participation as a speaker to the [DynamicsMinds 2024](https://www.dynamicsminds.com/) event
 - Brainstorming about a new idea to help people learn how to manage operations activities around Power Platform
 
 ## 📖 Learning
 
 - 👨‍👩‍👧‍👧 How to be a good dad and a good husband
-- 💻 Power Platform / Dynamics 365 CE / Azure / GitHub / Azure DevOps
+- 💻 Power Platform / AI Assisted Development / Azure / GitHub / Azure DevOps
 
 ## 🌐 Collaboration
 I’m open for collaboration on:
