@@ -67,6 +67,10 @@ I am always happy to talk about these topics :open_hands:
 </p>
 
 <p align="center">
+    <a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rpothin&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true" alt="GitHub Activity Graph" /></a>
+</p>
+
+<p align="center">
     <a href="#followers" alt="Followers">
         <img src="https://img.shields.io/github/followers/rpothin?style=social" /></a>
     <a href="https://twitter.com/RaphaelPothin" alt="Twitter Followers">
