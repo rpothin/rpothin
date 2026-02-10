@@ -59,8 +59,11 @@ I am always happy to talk about these topics :open_hands:
 *I am not expert but, if you are lucky, I will perhaps be able to help you :relaxed:*
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rpothin&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /><br/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rpothin&theme=algolia" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false">    <img  alt="rpothin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rpothin?cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false" />  </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rpothin&theme=chartreuse-dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
