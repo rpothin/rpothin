@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋🏼
 
-I'm **Raphael Pothin** — a **Microsoft MVP (Business Applications)** who loves to **trailblaze** in the Power Platform ecosystem and share what I learn with the community.
+I'm **Raphael Pothin** — a **Former 5x Microsoft MVP** who loves to **trailblaze** in the Power Platform ecosystem and share what I learn with the community.
 
 I’m passionate about:
 - ☕ **Power Platform governance & security** (guardrails that enable rather than block)
